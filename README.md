@@ -14,6 +14,7 @@ machine learning  predict sample, output csv
 ***
 ### more
 
+https://knaka0209.hatenablog.com/entry/vue_express_11
 
 ***
 
